@@ -1,0 +1,4 @@
+.terraform*
+script.sh
+terraform.tfstate*
+
